@@ -9,3 +9,11 @@ I will be using the new notes I created on my Amazon Scribe.
 Success
 Success
 Success
+
+
+
+If you forget to PULL or PUSH files to GitHub
+Please read the instructions you wrote on your Amazon Scribe.
+Thank you!
+
+Hello World!
